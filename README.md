@@ -28,8 +28,9 @@
 
 <hr>
 
-https://github.com/user-attachments/assets/bf751b6b-d03d-4ab1-a0ca-9ea0f37851c7
+## Projeto finalizado
 
+[Veja o vídeo do projeto](https://github.com/user-attachments/assets/bf751b6b-d03d-4ab1-a0ca-9ea0f37851c7)
 
 
 
